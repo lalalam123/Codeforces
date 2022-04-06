@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// CSCI2100HW3 name: Wonderful Tree
+
 // Hello 2018 B Christmas Spruce
 // Codeforces link:
 // https://codeforces.com/contest/913/problem/B
