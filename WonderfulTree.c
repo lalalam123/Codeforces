@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Hello 2018 B Christmas Spruce
+// Codeforces link:
+// https://codeforces.com/contest/913/problem/B
+
 int main(){
     int n, temp;
     scanf("%d",&n);
@@ -48,7 +52,7 @@ int main(){
         }
     }
     // === Check whether it is a wonderful tree === //
-    
+
     printf("Yes\n");
     free(numberofleaf);
 
